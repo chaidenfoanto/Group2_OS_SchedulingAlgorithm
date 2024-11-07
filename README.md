@@ -42,8 +42,8 @@ Rata-rata hasil simulasi untuk setiap algoritma berdasarkan kriteria di atas ada
 ## File dalam Repository
 - `fcfs.py`, `sjf_non_preemptive.py`, `sjf_preemptive.py`, `ljf_preemptive.py`, `round_robin.py`: Script Python untuk setiap algoritma penjadwalan.
 - `processes.xlsx`: File Excel yang berisi data proses yang digunakan dalam simulasi.
-- `output_fcfs.xlsx`, `output_sjf_non_preemptive.xlsx`, dll.: Hasil output dari setiap algoritma dalam format Excel.
-- `Analisa_Scheduling_Algorithm.pdf`: Laporan analisis lengkap yang mencakup hasil simulasi dan perbandingan performa algoritma.
+- `fcfs_output.xlsx`, `sjf_non_preemptive_output.xlsx`, dll.: Hasil output dari setiap algoritma dalam format Excel.
+- `OS - Group 2 - Scheduling Algorithm.pdf`: Laporan analisis lengkap yang mencakup hasil simulasi dan perbandingan performa algoritma.
 
 ## Cara Menjalankan
 1. Pastikan Python dan pustaka yang diperlukan (`pandas`, `openpyxl`, dll.) sudah terinstal.
